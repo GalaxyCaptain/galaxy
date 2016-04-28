@@ -126,7 +126,7 @@ public class Tms{
 		System.out.println("**2. 添加教师信息");
 		System.out.println("**3. 删除教师信息");
 		System.out.println("**4. 修改教师信息");
-		System.out.println("**5. 根据学号查询教师信息");
+		System.out.println("**5. 根据教工号查询教师信息");
 		System.out.println("**exit. 退出系统");
 		System.out.println("**help. 帮助");
 		System.out.println("************************************");

@@ -1,7 +1,7 @@
 package com.briup.GalaxyCaptain;
 
 /**
-  教师类是用来创建学生对象的，教师对象是用来存储该学生的信息的
+  教师类是用来创建教师对象的，教师对象是用来存储该教师的信息的
 */
 public class Teacher{
 	private long id;
